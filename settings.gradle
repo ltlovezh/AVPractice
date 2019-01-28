@@ -1,1 +1,1 @@
-include ':app', ':render', ':common'
+include ':app', ':render', ':common', ':image'

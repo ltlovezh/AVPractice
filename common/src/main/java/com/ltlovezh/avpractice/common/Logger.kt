@@ -3,7 +3,7 @@ package com.ltlovezh.avpractice.common
 import android.util.Log
 
 object Logger {
-    var level = Log.INFO
+    var level = Log.VERBOSE
 
 
     fun v(tag: String, msg: String?) {
